@@ -74,7 +74,7 @@ router.get('/', async (req, res) => {
                         });
 
                         await PrabathPairWeb.sendMessage(user_jid, {
-                            text: "┏━━━━━━━━━━━━━━┓\n┃╭┈───────────\n❗ `ASTA BOT SESSION `\n\n*⚔️Thank you for choosing ASTA BOT*\n\n*👉🏻If you have any issues contact me using*\n\n*👉🏻https://wa.me/254114127157*\n\n*👉🏻https://github.com/kingmalvn/MALVIN-MD/fork*\n\n----------------------------------------------------\n\n",
+                            text: "┏━━━━━━━━━━━━━━┓\n┃╭┈───────────\n❗ `ASTA BOT SESSION `\n\n*⚔️Thank you for choosing ASTA BOT*\n\n*👉🏻If you have any issues contact me using*\n\n*👉🏻https://wa.me/254114127157*\n\n*👉🏻https://github.com/Davemiracle01/ASTA-BOT*\n\n----------------------------------------------------\n\n",
    
                             });
    
